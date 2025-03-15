@@ -4,7 +4,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 
-import { Spinner } from 'components/Spinner'
+import { Spinner } from 'components'
 
 import './i18n'
 import './assets/styles/index.css'
